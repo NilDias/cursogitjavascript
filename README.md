@@ -18,7 +18,7 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 >>Para iniciar o projeto use
 ```
-git clone https://github.com/romulosilvestre/cursogitjavascript.git
+git clone https:/https://github.com/NilDias/cursogitjavascript.git
 ```
 6.Implementação futura
 7.Colaboradores
